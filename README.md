@@ -3,7 +3,21 @@ Run :
 `bash check.sh [file_contain_list_of_domain]`
 
 Example :
-`bash check.sh domain.txt`
+
+```
+$bash check.sh domain.txt
+
+========================[PROCESS STARTED]========================
+
+
+[PROCESS] : Checking on beta.moadoph.gov.au
+[RESULT] :  Please renew your certificate immidiately!
+
+[PROCESS] : Checking on getting-it-together.moadoph.gov.au
+[RESULT] :  OK!
+
+========================[PROCESS FINISHED]========================
+```
 
 ### Domains
 
